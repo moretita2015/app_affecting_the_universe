@@ -140,6 +140,8 @@ public class MenuMainActivity extends AppCompatActivity {
         actionBar.setTitle("GuAbA");
         Tools.setSystemBarColor(this);
 
+        fff
+
     }
 
     private void initNavigationMenu() {
